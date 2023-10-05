@@ -1,5 +1,1 @@
-Hello, this is a test file for my github repository.
-So far, I really like C++ and am excited to learn more.
-Dogs are better than cats to be honest.
-Today's weather is very nice, not too hot or cold
-I am looking forward to a great semester!
+Hello This Is A Test File!
